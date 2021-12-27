@@ -2,7 +2,7 @@
 
 Smart Home UI Design
 
-## Design Credit
+## Design Inspiration
 
 [Smart Home App](https://www.uplabs.com/posts/smart-home-iot-app-1-minimalist-design)
 
@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Screenshots
 
-<img src="https://github.com/alome007/smart-home-app/blob/master/s1.png" width="auto" height="auto">
-<img src="https://github.com/alome007/smart-home-app/blob/master/s2.png" width="auto" height="700">
+<img src="https://github.com/alome007/smart-home-app/blob/main/s1.png" width="auto" height="auto">
+<img src="https://github.com/alome007/smart-home-app/blob/main/s2.png" width="auto" height="700">
 
 
